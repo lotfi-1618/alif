@@ -1,2 +1,1 @@
-# alpha
 # alpha become alif
